@@ -10,7 +10,7 @@
         "default": "mdi:api"
       },
       "rate_limit_remaining": {
-        "default": "mdi:car-speed-limiter"
+        "default": "mdi:counter"
       }
     },
     "switch": {
