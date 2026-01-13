@@ -41,7 +41,6 @@ from .services import async_setup_services
 PLATFORMS = [
     Platform.BINARY_SENSOR,
     Platform.CLIMATE,
-    Platform.DEVICE_TRACKER,
     Platform.SELECT,
     Platform.SENSOR,
     Platform.SWITCH,
